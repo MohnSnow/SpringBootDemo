@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-
 public class Chapter1Application {
 	@RequestMapping("/")
 	public String index(){
