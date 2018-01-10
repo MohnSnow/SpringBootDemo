@@ -6,7 +6,6 @@
     <version>1.0.0</version>
     <name>SpringBootDemo</name>
     <packaging>pom</packaging>
-
     <modules>
         <module>chapter1</module>
         <module>chapter2</module>
