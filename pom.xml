@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>SpringBootDemo</artifactId>
+    <version>1.0.0</version>
+    <name>SpringBootDemo</name>
+    <packaging>pom</packaging>
+    <modules>
+        <module>chapter1</module>
+        <module>chapter2</module>
+        <module>chapter4</module>
+        <module>chapter5</module>
+        <module>chapter6</module>
+        <module>chapter7-1</module>
+        <module>chapter8</module>
+        <module>chapter9</module>
+        <module>chapter9-2</module>
+        <module>chapter11</module>
+        <module>chapter12</module>
+        <module>chapter55</module>
+    </modules>
+</project>
